@@ -1,0 +1,38 @@
+:root {
+  --font-family: "Inter", sans-serif;
+  --second-family: "HeadlandOne", sans-serif;
+  --third-family: "Hammersmith One", sans-serif;
+  --white-color: #FFFFFF;
+  --quota-color: #141414;
+  --text-color: #000000;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+ul{
+  margin: 0; 
+padding: 0;
+list-style: none;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+  margin: 0;
+}
+
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+
+}
+
+
+.container{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
